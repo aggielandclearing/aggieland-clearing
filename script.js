@@ -1,1 +1,1 @@
-console.log('Aggieland Clearing website loaded');
+// Version 1 placeholder
