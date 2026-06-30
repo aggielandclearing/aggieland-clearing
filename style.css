@@ -1,0 +1,6 @@
+body{margin:0;font-family:Arial,sans-serif;background:#f7f7f7;color:#222}
+.hero{min-height:100vh;background:#500000;color:white;display:flex;flex-direction:column}
+nav{display:flex;justify-content:space-between;padding:20px 40px}
+.hero-content{margin:auto;text-align:center;padding:20px}
+.btn{background:#fff;color:#500000;padding:14px 24px;text-decoration:none;border-radius:8px;font-weight:bold}
+section{max-width:1000px;margin:60px auto;padding:20px;background:white;border-radius:10px}
